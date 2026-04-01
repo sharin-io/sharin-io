@@ -4,8 +4,6 @@ I'm Shin Thant Thi Ri, a programmer who loves problem-solving, organizing things
 
 Note: "**Sharin**" is what people call me 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharin-io&show_icons=true&locale=en" alt="sharin-io" /></p>
-
 **About Me**  
 - 🐱 Proud cat parent—my cats may or may not walk over my keyboard mid-project.  
 - 💻 I enjoy coding, automating tasks, and optimizing workflows.  
@@ -19,8 +17,8 @@ Note: "**Sharin**" is what people call me
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharin-io&label=Profile%20views&color=0e75b6&style=flat" alt="sharin-io" /> </p>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=sharin-io)
+
 💡 **Let's connect!** Feel free to check out my projects and reach out!  
 
-#**30NitesOfCode**:              
-  [Check out my progress!](https://www.codedex.io/@sharindotio/30-nites-of-code)  
-  ![@sharindotio #30NitesOfCode](https://www.codedex.io/api/petStatus?user=sharindotio) 
+
